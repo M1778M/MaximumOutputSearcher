@@ -1,2 +1,3 @@
 # MaximumOutputSearcher
 MOS (MaximumOutputSearcher) This tool is used to mass search dorks. [ExpressVPN Edition]
+A fun (experimental) mini project I did in my free time...
