@@ -1,0 +1,8 @@
+
+colorama
+beautifulsoup4
+evpn
+fake-useragent
+urllib3
+requests
+wget
